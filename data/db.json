@@ -1,0 +1,42 @@
+{
+  "student": {
+    "name": "นายภานุพงษ์ ศรีสุยงค์",
+    "student_id": "6600000000",
+    "major": "Computer Science",
+    "school": "โรงเรียนตัวอย่าง"
+  },
+  "courses": [
+    {
+      "id": "3",
+      "code": "01999012",
+      "name": "Health for Life",
+      "name_th": "สุขภาพเพื่อชีวิต",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "5",
+      "code": "01418231",
+      "name": "Data Structures and Algorithms",
+      "name_th": "โครงสร้างข้อมูลและขั้นตอนวิธี",
+      "credit": 3,
+      "grade": "B"
+    },
+    {
+      "id": "6",
+      "code": "01418233",
+      "name": "Computer Architecture",
+      "name_th": "สถาปัตยกรรมคอมพิวเตอร์",
+      "credit": 3,
+      "grade": "A"
+    },
+    {
+      "id": "7",
+      "code": "01174231",
+      "name": "Introduction to Recreation",
+      "name_th": "นันทนาการเบื้องต้น",
+      "credit": 2,
+      "grade": "C+"
+    }
+  ]
+}
